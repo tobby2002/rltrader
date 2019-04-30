@@ -20,5 +20,5 @@
 
 
 ## pip install TA-Lib==0.4.17
-## pip install pandas keras tensorflow matplotlib mpl_finance sklearn zigzag pandas_datareader
+## pip install pandas keras tensorflow matplotlib mpl_finance sklearn Cython zigzag pandas_datareader
 
