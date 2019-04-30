@@ -19,3 +19,6 @@
 - agent_coin.py 파일에서 TRADING_CHARGE 값 수정.
 
 
+## pip install TA-Lib==0.4.17
+## pip install pandas, keras, tensorflow, matplotlib, mpl_finance, sklearn
+
